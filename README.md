@@ -1,2 +1,4 @@
 # projekt
-semenstralni projekt ZASWI
+semestralni projekt ZASWI
+bla blaaa
+
